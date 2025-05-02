@@ -16,9 +16,11 @@ I'm a data science enthusiast passionate about open-source, using technology to 
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&amp;repo=Real_or_AI_Generated_Image_Detection" alt="GitHub Stats">
     </a>
   </p>
-<h2 align="center">GitHub Contribution Calendar</h2>
+<!-- Yellow Contribution Calendar -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bubu02&theme=yellow-dark" alt="GitHub Contribution Calendar">
+  <a href="https://github.com/Bubu02">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bubu02&bg_color=000000&color=FFFF00&line=FFDD00&point=FFFF00&area=true&hide_border=true" alt="GitHub Contribution Graph with Yellow Theme">
+  </a>
 </p>
 
 <h2 align="center" id="tech-stack">Tech Stack<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h2>
