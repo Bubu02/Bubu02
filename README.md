@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/user-attachments/assets/bec3705e-a6ed-4eab-8651-ba9379f6774f" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 I'm a data science enthusiast passionate about open-source, using technology to solve real-world problems, and building inclusive communities. I enjoy working with Python, SQL, and tools like Plotly and AWS. I’ve contributed to impactful analytics projects and love making data more accessible and actionable for everyone.
 <h2 align="center" id="tech-stack">Projects<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h2>
 <div>
