@@ -1,21 +1,38 @@
 <img src="https://github.com/user-attachments/assets/bec3705e-a6ed-4eab-8651-ba9379f6774f" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 I'm a data science enthusiast passionate about open-source, using technology to solve real-world problems, and building inclusive communities. I enjoy working with Python, SQL, and tools like Plotly and AWS. I’ve contributed to impactful analytics projects and love making data more accessible and actionable for everyone.
 <h2 align="center" id="tech-stack">Projects<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h2>
-<div>
-  <p>
-    <a href="https://github.com/Bubu02/Pizza_Sales_Analysis.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&amp;repo=Pizza_Sales_Analysis" alt="GitHub Stats">
-    </a>
-    <a href="https://github.com/Bubu02/Play_Store_Data_Analysis.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&amp;repo=Play_Store_Data_Analysis" alt="GitHub Stats">
-    </a>
-    <a href="https://github.com/Bubu02/Store_Trial_Performance_Analysis_Project.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&amp;repo=Store_Trial_Performance_Analysis_Project" alt="GitHub Stats">
-    </a>
-    <a href="https://github.com/Bubu02/Real_or_AI_Generated_Image_Detection.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&amp;repo=Real_or_AI_Generated_Image_Detection" alt="GitHub Stats">
-    </a>
-  </p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Bubu02/Pizza_Sales_Analysis.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Pizza_Sales_Analysis&theme=highcontrast" alt="Pizza Sales Analysis">
+          <br>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Bubu02/Play_Store_Data_Analysis.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Play_Store_Data_Analysis&theme=highcontrast" alt="Play Store Data Analysis">
+          <br>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Bubu02/Store_Trial_Performance_Analysis_Project.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Store_Trial_Performance_Analysis_Project&theme=highcontrast" alt="Store Trial Performance Analysis">
+          <br>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Bubu02/Real_or_AI_Generated_Image_Detection.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Real_or_AI_Generated_Image_Detection&theme=highcontrast" alt="Real or AI Generated Image Detection">
+          <br>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <!-- Yellow Contribution Calendar -->
 <p align="center">
   <a href="https://github.com/Bubu02">
@@ -42,10 +59,10 @@ I'm a data science enthusiast passionate about open-source, using technology to 
  <h2 align="center" id="zap-github-stats">GITHUB STATS</h2>
   <br>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bubu02&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bubu02&amp;show_icons=true&amp;count_private=true&amp;theme=highcontrast" height="192px"></a>
 <br>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bubu02&amp;langs_count=10&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="SubhadeepZilong" height="192px">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bubu02&amp;langs_count=10&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=highcontrast" alt="SubhadeepZilong" height="192px">
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
