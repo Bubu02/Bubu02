@@ -71,5 +71,5 @@ I'm a data science enthusiast passionate about open-source, using technology to 
 <h4>1. Store Trial Performance Analysis Project
  </h4>
 <p><a href="https://github.com/Bubu02/Store_Trial_Performance_Analysis_Project.git" target="blank"><img src="https://github.com/user-attachments/assets/c5edefff-34f2-4f97-ac57-35bf6ae3a6b1"></a></p>
-<h4>2. Random Quote generator using NodeJs </h4>
+<h4>2. Pizza Sales Analysis </h4>
 <p><a href="https://github.com/Bubu02/Pizza_Sales_Analysis.git" target="blank"><img src="https://github.com/user-attachments/assets/22d17e46-fba2-4645-a69b-19b2a20ada4c"></a></p>
