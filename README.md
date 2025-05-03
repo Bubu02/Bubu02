@@ -19,13 +19,13 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Bubu02/Pizza_Sales_Analysis.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Pizza_Sales_Analysis&theme=gruvbox" alt="Pizza Sales Analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Pizza_Sales_Analysis&theme=highcontrast" alt="Pizza Sales Analysis">
           <br>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/Bubu02/Play_Store_Data_Analysis.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Play_Store_Data_Analysis&theme=gruvbox" alt="Play Store Data Analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Play_Store_Data_Analysis&theme=highcontrast" alt="Play Store Data Analysis">
           <br>
         </a>
       </td>
