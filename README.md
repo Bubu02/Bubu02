@@ -33,13 +33,13 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Bubu02/Store_Trial_Performance_Analysis_Project.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Store_Trial_Performance_Analysis_Project&theme=gruvbox" alt="Store Trial Performance Analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Store_Trial_Performance_Analysis_Project&theme=highcontrast" alt="Store Trial Performance Analysis">
           <br>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/Bubu02/Real_or_AI_Generated_Image_Detection.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Real_or_AI_Generated_Image_Detection&theme=gruvbox" alt="Real or AI Generated Image Detection">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bubu02&repo=Real_or_AI_Generated_Image_Detection&theme=highcontrast" alt="Real or AI Generated Image Detection">
           <br>
         </a>
       </td>
