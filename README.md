@@ -1,7 +1,18 @@
 <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-<img align="right" width="200px" alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h6YTl3N3pybnZjZ29nYzl2cnRrbGo2Y3NtNHg3ajlxa2U1aDllNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OptBjRF0RfKG4vzWLy/giphy.gif">
-<h2 id="about-me"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>About me</strong></em></h2>
-<p>Data science & analytics passionate about leveraging technology to solve real-world problems. Experienced in Python, SQL, Plotly, and AWS, with a focus on making data accessible and actionable.</p>
+<hr> <!-- Adds a line to separate sections -->
+
+<div>
+  <img align="right" width="200px" alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h6YTl3N3pybnZjZ29nYzl2cnRrbGo2Y3NtNHg3ajlxa2U1aDllNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OptBjRF0RfKG4vzWLy/giphy.gif">
+  
+  <h2 id="about-me">
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+    &nbsp;<em><strong>About Me</strong></em>
+  </h2>
+  
+  <p>Data scientist & analyst passionate about leveraging technology to solve real-world problems. Experienced in Python, SQL, Plotly, and AWS, with a focus on making data accessible and actionable.</p>
+</div>
+
+<hr> <!-- Adds another line for separation -->
 <h2 align="center" id="tech-stack">Projects<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h2>
 <div align="center">
   <table>
